@@ -25,7 +25,7 @@ A web-based student information system built using **ASP.NET Web Forms** and **S
 
 ### Student
 - Self-enroll into available courses
-- View and submit assignments
+- View assignments
 - View grades and GPA
 - Create marketplace listings
 
@@ -97,4 +97,4 @@ This project is intended for academic use only and is not licensed for commercia
 
 ## 🙋‍♂️ Author
 
-Developed as part of a university course project.
+Developed by sammax02 as part of a university course project.
